@@ -21,6 +21,7 @@ You have the following HTML page:
 </body> 
 </html> 
 ```
+The answer is C because the number five was unshift making the numbers start back to front and the first number was eliminated.
 
 What shows in the console when the page loads?
 
